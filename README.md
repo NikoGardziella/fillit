@@ -1,7 +1,6 @@
-# fillit Grade: 100/100
+# fillit 
 
-Hive group project after get_next_line.
-
+Hive group project after get_next_line. Grade: 100/100.
 
 Executable must take only one parameter, a file which contains a list of Tetriminos
 to assemble. This file has a very specific format : every Tetrimino must exactly fit in a
